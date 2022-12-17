@@ -79,16 +79,17 @@ footer {
     font-size: large;
     padding: 50px;
     border: 2px solid black;
+    text-align: left;
 }
 
-.carp h2 {
+h2 {
     text-align: center;
     padding: 50px;
     font-size: 50px;
     border: 2px solid black;
 }
 
-.carp h3 {
+h3 {
     text-align: left;
     padding: 30px;
     font-size: 50px;
@@ -98,3 +99,22 @@ footer {
 .carp img {
     height: 600px;
 }
+
+.typo ul {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    padding: 50px;
+}
+
+.typo p {
+    padding-top: 50px;
+}
+
+.typo li {
+    border: 2px solid black;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
