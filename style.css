@@ -67,3 +67,34 @@ footer {
     padding-top: 40px;
     text-align: center;
 }
+
+.carp ul {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.carp li {
+    font-size: large;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+.carp h2 {
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+    border: 2px solid black;
+}
+
+.carp h3 {
+    text-align: left;
+    padding: 30px;
+    font-size: 50px;
+    padding-left: 0px;
+}
+
+.carp img {
+    height: 600px;
+}
