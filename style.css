@@ -76,10 +76,11 @@ footer {
 }
 
 .carp li {
-    font-size: large;
     padding: 50px;
     border: 2px solid black;
     text-align: left;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
 }
 
 h2 {
@@ -116,5 +117,7 @@ h3 {
     border: 2px solid black;
     padding-bottom: 50px;
     padding-top: 50px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
 }
 
